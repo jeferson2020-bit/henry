@@ -1,0 +1,16 @@
+Homework: Introducción a Javascript
+
+1.DEFINICIONES
+
+* VARIABLES: son objetos que podemos ponerles cualquier nombre y asignarle un valor.
+
+* STRINGS: es un tipo de dato que lo conforman solo palabras y son asignadas en una variable.
+
+* FUNCIONES(argumentos, return):  Es una metodologia que usamos para poder agrupar unas instrucciones dandole un nombre para guardarlos y despues poder usarlo.
+Argumento: son las variables que declaro o definimos dentro de una funcion.
+Return: es la forma que usamos para poder retornar un valor por medio de una funcion.
+
+*DECLARACIONES (if): es una condicion logica que se utiliza para evaluar una expresion condicional si se cumple o no.
+
+*VALORES BOOLEANOS (true, false): es un tipo de datos logico que se representa con 2 valores, o es falso o es verdadero.
+
